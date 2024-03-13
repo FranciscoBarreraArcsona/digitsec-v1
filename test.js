@@ -9,3 +9,4 @@ fasfasfasfasf
 asf
 asfasfasf
 run test sast
+run test sast sca off new_findings
